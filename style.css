@@ -129,3 +129,14 @@
     display: none;
 
 }
+
+.goodBreakfastChoice {
+    position: absolute;
+    top: 5%;
+    left: 20%;
+    justify-content: center;
+    z-index: 11000;
+    font-size: 25px;
+    display: none;
+
+}

@@ -20,6 +20,11 @@ function fruitButton() {
     const f = document.querySelector(".chooseBreakfast");
     f.style.display = "none";
 
+    const g = document.querySelector(".goodBreakfastChoice");
+    g.style.display = "block";
+
+
+
 } 
 
 function fullEnglishButton() {
@@ -43,6 +48,9 @@ function fullEnglishButton() {
 
     const f = document.querySelector(".chooseBreakfast");
     f.style.display = "none";
+
+    const g = document.querySelector(".goodBreakfastChoice");
+    g.style.display = "block";
 
 } 
 
@@ -68,6 +76,9 @@ function wafflesButton() {
 
     const f = document.querySelector(".chooseBreakfast");
     f.style.display = "none";
+
+    const g = document.querySelector(".goodBreakfastChoice");
+    g.style.display = "block";
 
 } 
 
