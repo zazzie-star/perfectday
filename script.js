@@ -156,14 +156,120 @@ function startJourneyButton() {
 }
 
 
-/*
-const x = document.querySelector(".sunset");
-    console.log(x);
-    x.style.display = "block";
+function cinemaButton() {
+    const a = document.querySelector(".sunset");
+    console.log(a);
+    a.style.display = "block";
 
-    const y = document.querySelector(".guy");
-    y.style.display = "block";
+    const b = document.querySelector(".guy");
+    b.style.display = "block";
 
-    const z = document.querySelector(".HI");
-    z.style.display = "block";
-    */
+    const c = document.querySelector(".HI");
+    c.style.display = "block";
+
+
+
+    const d = document.querySelector(".goodBreakfastChoice");
+    d.style.display = "none";
+
+    const e = document.querySelector(".cinema");
+    e.style.display = "none";
+
+    const f = document.querySelector(".walkinpark");
+    f.style.display = "none";
+
+    const g = document.querySelector(".shopping");
+    g.style.display = "none";
+
+    const h = document.querySelector(".button5");
+    h.style.display = "none";
+
+    const i = document.querySelector(".button6");
+    i.style.display = "none";
+
+    const j = document.querySelector(".button7");
+    j.style.display = "none";
+
+
+}
+
+
+function walkInParkButton() {
+    const a = document.querySelector(".sunset");
+    console.log(a);
+    a.style.display = "block";
+
+    const b = document.querySelector(".guy");
+    b.style.display = "block";
+
+    const c = document.querySelector(".HI");
+    c.style.display = "block";
+
+
+
+    const d = document.querySelector(".goodBreakfastChoice");
+    d.style.display = "none";
+
+    const e = document.querySelector(".cinema");
+    e.style.display = "none";
+
+    const f = document.querySelector(".walkinpark");
+    f.style.display = "none";
+
+    const g = document.querySelector(".shopping");
+    g.style.display = "none";
+
+    const h = document.querySelector(".button5");
+    h.style.display = "none";
+
+    const i = document.querySelector(".button6");
+    i.style.display = "none";
+
+    const j = document.querySelector(".button7");
+    j.style.display = "none";
+
+
+
+}
+
+
+
+function shoppingButton() {
+    const a = document.querySelector(".sunset");
+    console.log(a);
+    a.style.display = "block";
+
+    const b = document.querySelector(".guy");
+    b.style.display = "block";
+
+    const c = document.querySelector(".HI");
+    c.style.display = "block";
+
+
+
+    const d = document.querySelector(".goodBreakfastChoice");
+    d.style.display = "none";
+
+    const e = document.querySelector(".cinema");
+    e.style.display = "none";
+
+    const f = document.querySelector(".walkinpark");
+    f.style.display = "none";
+
+    const g = document.querySelector(".shopping");
+    g.style.display = "none";
+
+    const h = document.querySelector(".button5");
+    h.style.display = "none";
+
+    const i = document.querySelector(".button6");
+    i.style.display = "none";
+
+    const j = document.querySelector(".button7");
+    j.style.display = "none";
+
+
+
+}
+
+

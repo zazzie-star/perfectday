@@ -186,8 +186,7 @@
     top:25%;
     left: 10%;
     display: none;
-    width: 10px;
-    height:10px ;
+
 
     
 }
@@ -195,7 +194,7 @@
 .walkinpark {
     position: absolute;
     top:25%;
-    left: 10%;
+    left: 40%;
     display: none;
     
 }
@@ -203,8 +202,6 @@
 .shopping {
     position: absolute;
     top: 25%;
-    right: 10%;
+    right: 5%;
     display: none;
-    width: 20%;
-    height: 60px;
 }
