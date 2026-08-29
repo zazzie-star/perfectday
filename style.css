@@ -1,3 +1,6 @@
 .sunset {
     justify-content: center;
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 50px;
 }
