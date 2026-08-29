@@ -56,3 +56,76 @@
 
     
 }
+
+
+.fruit {
+    position: absolute;
+    top:25%;
+    left: 10%;
+    display: none;
+}
+
+.fullenglish {
+    position: absolute;
+    top: 25%;
+    left: 36%;
+    display: none;
+}
+
+.waffles {
+    position: absolute;
+    top: 25%;
+    right: 10%;
+    display: none;
+}
+
+
+.button2 {
+    background-color: pink;
+    margin: 0; 
+    position: fixed;
+    top: 90%;
+    left: 20%;
+    margin-top: -50px;
+    margin-left: -82px;
+    display: none;
+    
+}
+
+.button3 {
+    background-color: pink;
+    margin: 0; 
+    position: fixed;
+    top: 90%;
+    left: 50%;
+    margin-top: -70px;
+    margin-left: -82px;
+    display: none;
+    
+
+    
+}
+
+.button4 {
+    background-color: pink;
+    margin: 0; 
+    position: fixed;
+    top: 90%;
+    left: 77%;
+    margin-top: -50px;
+    margin-left: -82px;
+    display: none;
+
+    
+}
+
+.chooseBreakfast {
+    position: absolute;
+    top: 5%;
+    left: 30%;
+    justify-content: center;
+    z-index: 11000;
+    font-size: 25px;
+    display: none;
+
+}
