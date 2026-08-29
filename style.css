@@ -1,21 +1,58 @@
 .sunset {
     justify-content: center;
     position: absolute;
-    left: 400px;
-    top: 0px;
+    left: 500px;
+    top: 10px;
+    display: none;
     
 }
 
 .guy {
     position: absolute;
-    left: 0px;
-    
+    left: 10px;
+    top: 10px;
+    display: none;
 }
 
 
 .HI {
     position: absolute;
-    top: 400px;
-    justify-content: center
+    top: 150px;
+    left: 135px;
+    justify-content: center;
+    z-index: 11000;
+    font-size: 10px;
+    display: none;
+}
+
+
+.button {
+    border: none;
+    color: darkslategray;
+    width: 172px;
+    height: auto;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 20px;
+    margin: 0;
+    cursor: pointer;
+    border-radius: 8px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+}
+
+
+.button1 {
+    background-color: pink;
+    margin: 0; 
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -82px;
+    
+
     
 }
