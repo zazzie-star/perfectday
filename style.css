@@ -1,12 +1,21 @@
 .sunset {
     justify-content: center;
     position: absolute;
-    margin-left: 400px;
-    margin-top: 30px;
+    left: 400px;
+    top: 0px;
     
 }
 
 .guy {
-    margin-left: 0px;
+    position: absolute;
+    left: 0px;
+    
+}
+
+
+.HI {
+    position: absolute;
+    top: 400px;
+    justify-content: center
     
 }
