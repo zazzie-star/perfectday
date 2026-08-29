@@ -34,6 +34,15 @@ function fruitButton() {
     const j = document.querySelector(".shopping");
     j.style.display = "block";
 
+    const k = document.querySelector(".button5");
+    k.style.display = "block";
+
+    const l = document.querySelector(".button6");
+    l.style.display = "block";
+
+    const m = document.querySelector(".button7");
+    m.style.display = "block";
+
 
 
 } 
@@ -122,6 +131,16 @@ function wafflesButton() {
     const j = document.querySelector(".shopping");
     j.style.display = "block";
 
+    const k = document.querySelector(".button5");
+    k.style.display = "block";
+
+    const l = document.querySelector(".button6");
+    l.style.display = "block";
+
+    const m = document.querySelector(".button7");
+    m.style.display = "block";
+    
+    
 
 
 } 
