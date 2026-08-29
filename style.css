@@ -140,3 +140,71 @@
     display: none;
 
 }
+
+.button5 {
+    background-color: pink;
+    margin: 0; 
+    position: fixed;
+    top: 90%;
+    left: 20%;
+    margin-top: -50px;
+    margin-left: -82px;
+    display: none;
+    
+}
+
+.button6 {
+    background-color: pink;
+    margin: 0; 
+    position: fixed;
+    top: 90%;
+    left: 50%;
+    margin-top: -70px;
+    margin-left: -82px;
+    display: none;
+    
+
+    
+}
+
+.button7 {
+    background-color: pink;
+    margin: 0; 
+    position: fixed;
+    top: 90%;
+    left: 77%;
+    margin-top: -50px;
+    margin-left: -82px;
+    display: none;
+
+    
+}
+
+
+.cinema {
+    position: absolute;
+    top:25%;
+    left: 10%;
+    display: none;
+    width: 10px;
+    height:10px ;
+
+    
+}
+
+.walkinpark {
+    position: absolute;
+    top:25%;
+    left: 10%;
+    display: none;
+    
+}
+
+.shopping {
+    position: absolute;
+    top: 25%;
+    right: 10%;
+    display: none;
+    width: 20%;
+    height: 60px;
+}

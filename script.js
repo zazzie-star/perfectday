@@ -25,6 +25,17 @@ function fruitButton() {
 
 
 
+     const h = document.querySelector(".cinema");
+    h.style.display = "block";
+
+    const i = document.querySelector(".walkinpark");
+    i.style.display = "block";
+
+    const j = document.querySelector(".shopping");
+    j.style.display = "block";
+
+
+
 } 
 
 function fullEnglishButton() {
@@ -51,6 +62,26 @@ function fullEnglishButton() {
 
     const g = document.querySelector(".goodBreakfastChoice");
     g.style.display = "block";
+
+
+
+    const h = document.querySelector(".cinema");
+    h.style.display = "block";
+
+    const i = document.querySelector(".walkinpark");
+    i.style.display = "block";
+
+    const j = document.querySelector(".shopping");
+    j.style.display = "block";
+
+    const k = document.querySelector(".button5");
+    k.style.display = "block";
+
+    const l = document.querySelector(".button6");
+    l.style.display = "block";
+
+    const m = document.querySelector(".button7");
+    m.style.display = "block";
 
 } 
 
@@ -79,6 +110,19 @@ function wafflesButton() {
 
     const g = document.querySelector(".goodBreakfastChoice");
     g.style.display = "block";
+
+
+
+    const h = document.querySelector(".cinema");
+    h.style.display = "block";
+
+    const i = document.querySelector(".walkinpark");
+    i.style.display = "block";
+
+    const j = document.querySelector(".shopping");
+    j.style.display = "block";
+
+
 
 } 
 
