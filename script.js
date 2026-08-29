@@ -1,22 +1,73 @@
 function fruitButton() {
-    const x = document.querySelector(".sunset");
-    console.log(x);
-    x.style.display = "block";
+    const w = document.querySelector(".button2");
+    w.style.display = "none";
 
-    const y = document.querySelector(".guy");
-    y.style.display = "block";
+    const a = document.querySelector(".button3");
+    a.style.display = "none";
 
-    const z = document.querySelector(".HI");
-    z.style.display = "block";
+    const b = document.querySelector(".button4");
+    b.style.display = "none";
 
-    const w = document.querySelector(".fruitButton");
-    w.style.display = "block";
+    const c = document.querySelector(".fruit");
+    c.style.display = "none";
 
-    const a = document.querySelector(".fullEnglishButton");
-    a.style.display = "block";
+    const d = document.querySelector(".fullenglish");
+    d.style.display = "none";
 
-    const b = document.querySelector(".wafflesButton");
-    b.style.display = "block";
+    const e = document.querySelector(".waffles");
+    e.style.display = "none";
+
+    const f = document.querySelector(".chooseBreakfast");
+    f.style.display = "none";
+
+} 
+
+function fullEnglishButton() {
+    const w = document.querySelector(".button2");
+    w.style.display = "none";
+
+    const a = document.querySelector(".button3");
+    a.style.display = "none";
+
+    const b = document.querySelector(".button4");
+    b.style.display = "none";
+
+    const c = document.querySelector(".fruit");
+    c.style.display = "none";
+
+    const d = document.querySelector(".fullenglish");
+    d.style.display = "none";
+
+    const e = document.querySelector(".waffles");
+    e.style.display = "none";
+
+    const f = document.querySelector(".chooseBreakfast");
+    f.style.display = "none";
+
+} 
+
+
+function wafflesButton() {
+    const w = document.querySelector(".button2");
+    w.style.display = "none";
+
+    const a = document.querySelector(".button3");
+    a.style.display = "none";
+
+    const b = document.querySelector(".button4");
+    b.style.display = "none";
+
+    const c = document.querySelector(".fruit");
+    c.style.display = "none";
+
+    const d = document.querySelector(".fullenglish");
+    d.style.display = "none";
+
+    const e = document.querySelector(".waffles");
+    e.style.display = "none";
+
+    const f = document.querySelector(".chooseBreakfast");
+    f.style.display = "none";
 
 } 
 
@@ -48,3 +99,16 @@ function startJourneyButton() {
 
 
 }
+
+
+/*
+const x = document.querySelector(".sunset");
+    console.log(x);
+    x.style.display = "block";
+
+    const y = document.querySelector(".guy");
+    y.style.display = "block";
+
+    const z = document.querySelector(".HI");
+    z.style.display = "block";
+    */
